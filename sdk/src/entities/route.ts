@@ -1,5 +1,5 @@
 import invariant from 'tiny-invariant'
-import { ChainId, Currency, Price, Token, wrappedCurrency } from '../../../core/src';
+import { ChainId, Currency, Price, Token, wrappedCurrency } from '@uniswap/sdk-core';
 
 import { Pair } from './pair'
 

@@ -1,4 +1,4 @@
-import { Token, WETH9, ChainId, CurrencyAmount, ETHER } from '../../../core/src'
+import { Token, WETH9, ChainId, CurrencyAmount, ETHER } from '@uniswap/sdk-core'
 import { Pair, Route } from './index'
 
 describe('Route', () => {

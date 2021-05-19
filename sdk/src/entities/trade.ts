@@ -12,7 +12,7 @@ import {
   wrappedCurrencyAmount,
   computePriceImpact,
   Token,
-} from '../../../core/src'
+} from '@uniswap/sdk-core'
 import { ONE, ZERO } from '../constants'
 import invariant from 'tiny-invariant'
 

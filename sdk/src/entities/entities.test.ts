@@ -1,6 +1,6 @@
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
-import { ChainId, WETH9 as _WETH9, TradeType, Token, CurrencyAmount } from '../../../core/src'
+import { ChainId, WETH9 as _WETH9, TradeType, Token, CurrencyAmount } from '@uniswap/sdk-core'
 import { Pair, Route, Trade } from '../index'
 
 const ADDRESSES = [
